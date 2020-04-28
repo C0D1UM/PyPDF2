@@ -10,6 +10,10 @@ as merge entire files together.
 Homepage  
 http://mstamy2.github.io/PyPDF2/
 
+## Fixes
+
+- `Could not find object.` bug (see: https://stackoverflow.com/a/52687771/7930117)
+
 ## Examples
 
 Please see the `Sample_Code` folder.
